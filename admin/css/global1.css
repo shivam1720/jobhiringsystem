@@ -1,0 +1,143 @@
+*{
+	margin:0xp auto;
+	font-family: arial !important;
+}
+.clear{
+	clear: both;
+}
+.rtb
+{
+	border:2px solid #ccc;
+	width:100%;
+	font-size: 14px;
+}
+.rtb td, .rtb th
+ {
+	padding: 5px;
+ 	border:2px solid #ccc;
+ }
+.invoice_wraper{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.invocietitle{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 12px;
+	margin-bottom: 10px;
+	border-bottom: 1.5px solid #ccc;
+}
+.payable{
+	float: left;
+}
+
+.invoicedetails table th
+{
+	border:2px solid #ccc;
+}
+
+.invoicedetails{
+	float: right;
+	font-weight:500;
+}
+.payableto{
+	font-weight: 800;
+	text-transform: uppercase;
+	line-height: 1;
+	font-size: 14px;
+	font-family: arial;
+}
+.compname{
+	font-weight: 800;
+	text-transform: uppercase;
+	line-height: 1.2;
+	font-size: 14px;
+	font-family: arial;
+}
+pre{
+4	font-size: 16px;
+	font-family: arial;
+}
+.invoicedetails table{
+	background-color: #fff;
+	color: #000;
+	font-size: 14px;
+	padding: 10px;
+}
+.invoicedetails table tr td{
+	border:2px solid #ccc;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.invoice_no{
+	text-transform:uppercase;
+	font-size: 16px;
+}
+.bill{
+	width: 100%;
+}
+.billto{
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 14px;
+}
+.loaddetails{
+	background-color: #eee;
+	padding: 5px 5px 5px 5px;
+	border: 1px solid #ccc;
+	margin: 10px 0 10px 0;
+}
+.loadspec{
+	font-weight: 700;
+	text-transform: uppercase;
+	margin: 10px 0px 10px;
+}
+.cons_tab tr
+{
+	width:100%;
+}
+
+.shipper{
+	font-weight: bold;
+	font-weight: 600;
+	width: auto;
+}
+.shipper1{
+	font-weight: bold;
+	font-weight: 700;
+	width: 158px;
+}
+.ship_tab{
+	border:2px solid #ccc;
+	background-color: #eee;
+}
+.loadtable .cons_tab{
+	width: 100%;	
+	padding: 10px 10px 10px 10px;
+	border:2px solid #ccc;
+}
+.loadtable .ship_tab{
+	width: 100%;	
+	padding: 10px 10px 10px 10px;
+}
+.ratescharges{
+	text-transform: uppercase;
+	font-weight: 900;
+	text-align: left;
+	font-size: 16px;
+	margin: 10px 0 10px 0;
+}
+.chargesspec{
+	float: left;
+	font-weight: 500;
+}
+.chrges{
+	float: right;
+	font-weight: 600;
+}
+.complogo{
+	text-align: center;
+	font-size: 25px;
+	margin-top: 100px;
+}
